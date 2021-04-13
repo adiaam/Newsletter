@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programms\\DeleteMe\\NewsletterApp\\Newsletter\\Newsletter.csproj": {}
+    "D:\\Forum\\Mario Soadro\\_12_04_2021\\Newsletter\\NewsletterApp\\Newsletter\\Newsletter.csproj": {}
   },
   "projects": {
-    "D:\\Programms\\DeleteMe\\NewsletterApp\\Newsletter\\Newsletter.csproj": {
+    "D:\\Forum\\Mario Soadro\\_12_04_2021\\Newsletter\\NewsletterApp\\Newsletter\\Newsletter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programms\\DeleteMe\\NewsletterApp\\Newsletter\\Newsletter.csproj",
+        "projectUniqueName": "D:\\Forum\\Mario Soadro\\_12_04_2021\\Newsletter\\NewsletterApp\\Newsletter\\Newsletter.csproj",
         "projectName": "Newsletter",
-        "projectPath": "D:\\Programms\\DeleteMe\\NewsletterApp\\Newsletter\\Newsletter.csproj",
+        "projectPath": "D:\\Forum\\Mario Soadro\\_12_04_2021\\Newsletter\\NewsletterApp\\Newsletter\\Newsletter.csproj",
         "packagesPath": "C:\\Users\\a_dia\\.nuget\\packages\\",
-        "outputPath": "D:\\Programms\\DeleteMe\\NewsletterApp\\Newsletter\\obj\\",
+        "outputPath": "D:\\Forum\\Mario Soadro\\_12_04_2021\\Newsletter\\NewsletterApp\\Newsletter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

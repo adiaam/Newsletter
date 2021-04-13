@@ -27,14 +27,9 @@ namespace Newsletter.Controllers
             {
                 _context.Add(newsletterModel);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Newsletter), "home");
+                return RedirectToAction("Index", "Home");
             }
             return View();
         }
-
-        //private bool NewsletterModelExists(int id)
-        //{
-        //    return _context.Newsletters.Any(e => e.Id == id);
-        //}
     }
 }

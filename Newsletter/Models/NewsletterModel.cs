@@ -10,11 +10,11 @@ namespace Newsletter.Models
     {
         [Key]
         public int Id { get; set; }
-        //[Required,MaxLength(255)]
+        [Required, MaxLength(255)]
         public string Vorname { get; set; }
-        //[Required,MaxLength(255)]
+        [Required, MaxLength(255)]
         public string Nachname { get; set; }
-        //[Required,EmailAddress]
+        [Required, EmailAddress]
         public string Email { get; set; }
     }
 }

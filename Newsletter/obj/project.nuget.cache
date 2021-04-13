@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vb1w/XpjFb20Kk5zB/CgXhC9SqvjVaOCKK5b2wyc2TpKiqY1BB0yLQUuJa8eiNHwNsIReuEIFmkvG4Qvk33QhA==",
+  "dgSpecHash": "uPHl78W0DkZH+qfbNzchDY7jBp4mSiYjYpkoq1QlMPfzgm6uz3zSMbYa7TR5Iy01ngVs9zhZID6m6ihtJb81xQ==",
   "success": true,
-  "projectFilePath": "D:\\Programms\\DeleteMe\\NewsletterApp\\Newsletter\\Newsletter.csproj",
+  "projectFilePath": "D:\\Forum\\Mario Soadro\\_12_04_2021\\Newsletter\\NewsletterApp\\Newsletter\\Newsletter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a_dia\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\a_dia\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",
