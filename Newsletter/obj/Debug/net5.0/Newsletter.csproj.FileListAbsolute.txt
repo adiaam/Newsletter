@@ -924,3 +924,9 @@ D:\Forum\Mario Soadro\_12_04_2021\Newsletter\NewsletterApp\Newsletter\obj\Debug\
 D:\Forum\Mario Soadro\_12_04_2021\Newsletter\NewsletterApp\Newsletter\obj\Debug\net5.0\ref\Newsletter.dll
 D:\Forum\Mario Soadro\_12_04_2021\Newsletter\NewsletterApp\Newsletter\obj\Debug\net5.0\Newsletter.pdb
 D:\Forum\Mario Soadro\_12_04_2021\Newsletter\NewsletterApp\Newsletter\obj\Debug\net5.0\Newsletter.genruntimeconfig.cache
+D:\Forum\Mario Soadro\_12_04_2021\Newsletter\NewsletterApp\Newsletter\obj\Debug\net5.0\Razor\Views\Home\Newsletter.cshtml.g.cs
+D:\Forum\Mario Soadro\_12_04_2021\Newsletter\NewsletterApp\Newsletter\obj\Debug\net5.0\Razor\Views\Newsletter\Create.cshtml.g.cs
+D:\Forum\Mario Soadro\_12_04_2021\Newsletter\NewsletterApp\Newsletter\obj\Debug\net5.0\Razor\Views\Newsletter\Delete.cshtml.g.cs
+D:\Forum\Mario Soadro\_12_04_2021\Newsletter\NewsletterApp\Newsletter\obj\Debug\net5.0\Razor\Views\Newsletter\Details.cshtml.g.cs
+D:\Forum\Mario Soadro\_12_04_2021\Newsletter\NewsletterApp\Newsletter\obj\Debug\net5.0\Razor\Views\Newsletter\Edit.cshtml.g.cs
+D:\Forum\Mario Soadro\_12_04_2021\Newsletter\NewsletterApp\Newsletter\obj\Debug\net5.0\Razor\Views\Newsletter\Index.cshtml.g.cs
