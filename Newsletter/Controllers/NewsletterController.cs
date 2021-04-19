@@ -19,7 +19,7 @@ namespace Newsletter.Controllers
             _context = context;
         }
 
-        // GET: Newsletter
+        // GET: Newsletters
         public async Task<IActionResult> Index()
         {
             return View(await _context.Newsletters.ToListAsync());
