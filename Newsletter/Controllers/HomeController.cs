@@ -28,7 +28,7 @@ namespace Newsletter.Controllers
             return View();
         }
 
-        public IActionResult Newletter()
+        public IActionResult Newsletter()
         {
             return View();
         }
