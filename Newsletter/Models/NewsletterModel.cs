@@ -16,5 +16,7 @@ namespace Newsletter.Models
         public string Nachname { get; set; }
         [Required, EmailAddress]
         public string Email { get; set; }
+        [MaxLength(255)]
+        public string Spitzname { get; set; }
     }
 }
